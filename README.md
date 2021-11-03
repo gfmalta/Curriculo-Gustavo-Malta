@@ -23,7 +23,7 @@
      <div class="background">
     <div id="Sobre-mim" class="container">
             <h1>Gustavo Ferreira Malta</h1>   
-            <img class="foto-perfil" src="Curriculo/assets/IMG_4795 (2).JPG">  
+            <img class="foto-perfil" src="Curriculo/assets\IMG_4795 (2).JPG">  
         </div>
         <div class="texto-pessoal">
             <ul>
