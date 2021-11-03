@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Curriculo Gustavo Ferreira Malta</title>
-    <link rel="stylesheet" type="text/css" href="Pasta/CSS/style.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
@@ -23,7 +23,7 @@
      <div class="background">
     <div id="Sobre-mim" class="container">
             <h1>Gustavo Ferreira Malta</h1>   
-            <img class="foto-perfil" src="Pasta\assets\IMG_4795 (2).JPG">  
+            <img class="foto-perfil" src="assets\IMG_4795 (2).JPG">  
         </div>
         <div class="texto-pessoal">
             <ul>
@@ -63,7 +63,7 @@
         <br>
         <div class="texto-foto">
             <a href="https://fga.unb.br/">
-                <img src="Pasta\assets\2560px-Webysther_20160322_-_Logo_UnB_(sem_texto).svg.png" width="220px">
+                <img src="assets\2560px-Webysther_20160322_-_Logo_UnB_(sem_texto).svg.png" width="220px">
             </a>
             <ul>
                 <h3>Engenharias / FGA UnB</h3>
@@ -76,7 +76,7 @@
             <br>
             <br>
             <div class="texto-foto">
-            <img src="Pasta\assets\50472090_2246637855400866_5084054024949334016_n-removebg-preview.png" width="220px">
+            <img src="assets\50472090_2246637855400866_5084054024949334016_n-removebg-preview.png" width="220px">
             <ul>
                 <h3>Ensino Médio / Centro Educacional Sigma</h3>
                 <h4>2016 - 2018</h4>
@@ -99,15 +99,15 @@
             <h3>Linguagens de programação</h3>
             <br>
             <div class="texto-foto">
-            <img src="Pasta\assets\letter-c-png-5a36954d474e54.1991877715135266052921-removebg-preview.png" width="190px">
+            <img src="assets\letter-c-png-5a36954d474e54.1991877715135266052921-removebg-preview.png" width="190px">
                 <h4>C (Médio)</h4>
             </div>
             <div class="texto-foto">
-                <img src="Pasta\assets\fundo-card-removebg-preview.png" width="190px">
+                <img src="assets\fundo-card-removebg-preview.png" width="190px">
                 <h4>Python (Básico)</h4>
             </div>
             <div class="texto-foto">
-                <img src="Pasta\assets\2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="190px">
+                <img src="assets\2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="190px">
                 <h4>HTML e CSS (Básico)</h4>
             </div>
     </section>
@@ -122,7 +122,7 @@
         <br>
         <div class="texto-foto">
             <a href="https://gamacubedesign.wixsite.com/website">
-            <img class="foto" src="Pasta\assets\186238773_516201593123910_8666308334045829931_n-removebg-preview.png">
+            <img class="foto" src="assets\186238773_516201593123910_8666308334045829931_n-removebg-preview.png">
             </a>
             <ul>
             <h3>Gama Cube Design </h3>
@@ -135,7 +135,7 @@
         </div>
         <div class="texto-foto">
             <a href="https://www.orcestra.com.br/">
-            <img class="foto" src="Pasta\assets\75543785_1393339157491124_7403758061858324480_n-removebg-preview.png">
+            <img class="foto" src="assets\75543785_1393339157491124_7403758061858324480_n-removebg-preview.png">
             </a>
             <ul>
             <h3>Orc'estra Gamificação</h3>
@@ -155,7 +155,7 @@
             <br>
         <div class="foto-insta">
             <a href="https://www.instagram.com/gustavofmaltinha/">
-            <img class="foto" src="Pasta\assets\61-617277_watercolor-circle-png-removebg-preview.png" width="140px">
+            <img class="foto" src="assets\61-617277_watercolor-circle-png-removebg-preview.png" width="140px">
         </a>
             <ul>
                 <h3>@gustavofmaltinha</h3>
@@ -163,7 +163,7 @@
         </div>
         <div class="foto-linkedin">
             <a href="https://www.linkedin.com/in/gustavo-ferreira-malta-60047a221/">
-            <img class="foto" src="Pasta\assets\linkedin-logo-512x512.png" width="140px">
+            <img class="foto" src="assets\linkedin-logo-512x512.png" width="140px">
         </a>
         <ul>    
             <h3>@Gustavo Ferreira Malta</h3>
@@ -171,7 +171,7 @@
         </div>
         <div class="github">
             <a href="https://github.com/gfmalta">
-            <img class="foto" src="Pasta\assets\github-removebg-preview.png"   width="140px">
+            <img class="foto" src="assets\github-removebg-preview.png"   width="140px">
             </a>
             <ul>
                 <h3>@gfmalta</h3>
