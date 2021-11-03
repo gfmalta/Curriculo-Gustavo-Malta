@@ -1,4 +1,4 @@
-*{margin: 0; padding: 0;}
+
 .foto-perfil {
     max-width: 350px;
     position: relative;
@@ -61,6 +61,8 @@
 body{
 font-family: arial, helvetica, sans-serif;
 font-size: 20px;
+margin: 0; 
+padding: 0;
 }
 .menu{
     position: fixed;
@@ -80,7 +82,10 @@ font-size: 20px;
  }
 
 .menu li a{ 
-    color:rgb(199, 199, 199); text-decoration:none; padding:5px 10px; display:inline-block;
+    color:rgb(199, 199, 199);
+    text-decoration:none;
+    padding:5px 10px; 
+    display:inline-block;
 }
 
 .menu li a:hover{
