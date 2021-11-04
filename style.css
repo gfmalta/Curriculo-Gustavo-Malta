@@ -9,6 +9,7 @@
    
 .container{
     color: #c0c0c0;
+    display: flex;
     align-items: center; 
     padding-left: 40px;
     font-size: 30px;
