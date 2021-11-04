@@ -6,6 +6,9 @@
     color: #c0c0c0;
     list-style: none;
 }
+html{
+    width: 100vw;
+}
    
 .container{
     color: #c0c0c0;
@@ -54,7 +57,7 @@
 body{
 font-family: arial, helvetica, sans-serif;
 font-size: 20px;
-width 100vw;;
+width: 100vw;;
 }
 .menu{
     position: fixed;
