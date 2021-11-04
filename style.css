@@ -24,8 +24,8 @@
     font-size: 30px;
   
 }
-.background{ background-image:url("https://wallpaperaccess.com/full/4422658.jpg");
-    background-size: auto; 
+.background{ background-image: url("https://wallpaperaccess.com/full/4422658.jpg");
+    background-size: absolute auto; 
 }
 .texto li{
     margin-left: 40px;
