@@ -25,7 +25,9 @@
   
 }
 .background{ background-image: url("https://wallpaperaccess.com/full/4422658.jpg");
-    background-size: absolute auto; 
+    position: relative;
+    height: 100vh;
+    width: 100vw;
 }
 .texto li{
     margin-left: 40px;
