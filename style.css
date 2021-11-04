@@ -89,9 +89,10 @@ font-size: 20px;
     background-color:#fff;
     display:none;
     }
+
 .foto-perfil {
     max-width: 350px;
-    position: relative;
+    display: flex;
     left:350px;
     top: 50px;
     border-radius: 100%;
