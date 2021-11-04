@@ -14,11 +14,12 @@
     padding-left: 40px;
     font-size: 30px;
     height: 100%;
-     width: 250px;
+     width: 100%;
   
 }
 .background{ background-image: url("https://wallpaperaccess.com/full/4422658.jpg");
-   background-size: auto;
+   height: 100%;
+   width: 100%;
 }
 .texto li{
     margin-left: 40px;
