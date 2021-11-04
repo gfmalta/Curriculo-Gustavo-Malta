@@ -21,7 +21,7 @@ html{
 }
 .background{ background-image: url("https://wallpaperaccess.com/full/4422658.jpg");
    display: block;
-   width: 100vw;
+   width: 100%;
 }
 .texto li{
     margin-left: 40px;
