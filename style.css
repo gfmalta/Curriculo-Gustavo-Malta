@@ -13,7 +13,8 @@
     align-items: center; 
     padding-left: 40px;
     font-size: 30px;
-    max-width: auto;
+    height: 100%;
+     width: 250px;
   
 }
 .background{ background-image: url("https://wallpaperaccess.com/full/4422658.jpg");
