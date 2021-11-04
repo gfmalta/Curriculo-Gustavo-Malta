@@ -13,13 +13,12 @@
     align-items: center; 
     padding-left: 40px;
     font-size: 30px;
-    height: 100%;
-     width: 100%;
+    width: 100vw;
   
 }
 .background{ background-image: url("https://wallpaperaccess.com/full/4422658.jpg");
-   height: 100%;
-   width: 100%;
+   display: block;
+   width: 100vw;
 }
 .texto li{
     margin-left: 40px;
