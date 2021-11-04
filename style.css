@@ -1,13 +1,4 @@
 *{margin: 0; padding: 0;}
-.foto-perfil {
-    max-width: 350px;
-    position: relative;
-    left:350px;
-    top: 50px;
-    border-radius: 100%;
-    box-shadow: rgb(0, 0, 0) 10px;
-    border: 5px;
-}
 
 .texto-pessoal{
     font-size: 20px;
@@ -98,6 +89,15 @@ font-size: 20px;
     background-color:#fff;
     display:none;
     }
+.foto-perfil {
+    max-width: 350px;
+    position: relative;
+    left:350px;
+    top: 50px;
+    border-radius: 100%;
+    box-shadow: rgb(0, 0, 0) 10px;
+    border: 5px;
+}
 
 .foto{
     max-width:180px;
