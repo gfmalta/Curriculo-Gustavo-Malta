@@ -6,9 +6,6 @@
     color: #c0c0c0;
     list-style: none;
 }
-html{
-    width: 100vw;
-}
    
 .container{
     color: #c0c0c0;
@@ -97,12 +94,12 @@ width: 100vw;;
     }
 
 .foto-perfil {
-    max-width: 150px;
+    max-width: 300px;
+    max-height: 300px;
     position: relative;
     left:200px;
     top: 50px;
     border-radius: 100%;
-    box-shadow: rgb(0, 0, 0) 10px;
     border: 5px;
 }
 
