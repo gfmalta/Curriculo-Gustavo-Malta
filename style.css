@@ -18,7 +18,7 @@
 }
 .background{ background-image: url("https://wallpaperaccess.com/full/4422658.jpg");
    display: block;
-   width: 100%;
+   width: 100vw;
 }
 .texto li{
     margin-left: 40px;
@@ -102,21 +102,19 @@ width: 100vw;;
 }
 
 .foto{
-    max-width:180px;
+    width:180px;
     margin: 40px;
 }
 
 .texto-foto{
     display: flex;
     align-items: center;
-    white-space: normal; 
     font-size:medium;
     margin-left: 40px;
 }
 .github{
     margin-left: 40px;
     align-items: center;
-    white-space: normal;
     font-size: medium;
     display: flex;
 }
