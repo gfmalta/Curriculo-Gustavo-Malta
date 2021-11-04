@@ -92,7 +92,7 @@ font-size: 20px;
 
 .foto-perfil {
     max-width: 150px;
-    display: flex;
+    position: absolute;
     left:200px;
     top: 50px;
     border-radius: 100%;
